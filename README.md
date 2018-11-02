@@ -2,7 +2,7 @@
 
 Коллекция полезных материалов и инструментов, которые всегда хочется иметь под рукой
 
-## Typescript
+## TypeScript
 - [learn-typescript](https://github.com/snipcart/learn-typescript) - Open Source коллекция материалов для изучения TypeScript
 
 ## Полезные инструменты
