@@ -11,3 +11,6 @@
 
 ## UI/UX
 - [refactoringui.com](https://refactoringui.com/) - Коллекция отличных советов по улучшению внешнего вида приложения.
+
+## Онлайн курсы
+- [laracasts.com](https://laracasts.com/) — Уроки frontend и backend разработки от Jeffrey Way. Есть курс по Vue.js 2.
