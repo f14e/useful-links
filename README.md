@@ -14,3 +14,6 @@
 
 ## Онлайн курсы
 - [laracasts.com](https://laracasts.com/) — Уроки frontend и backend разработки от Jeffrey Way. Есть курс по Vue.js 2.
+
+## Разное
+- [learnxinyminutes.com](https://learnxinyminutes.com/) - Быстрый экскурс в новый язык или технологию.
