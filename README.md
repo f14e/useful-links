@@ -18,3 +18,6 @@
 ## Разное
 - [learnxinyminutes.com](https://learnxinyminutes.com/) - Быстрый экскурс в новый язык или технологию.
 - [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/dictionary.md) - Большой словарь знакомых и не очень терминов от WebStandards.
+
+## Сеть
+- [howdns.works](https://howdns.works/) - Анимированный комикс по основам работы DNS.
