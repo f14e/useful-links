@@ -3,12 +3,13 @@
 Коллекция полезных материалов и инструментов, которые всегда хочется иметь под рукой
 
 ## TypeScript
-- [learn-typescript](https://github.com/snipcart/learn-typescript) - Open Source коллекция материалов для изучения TypeScript
+- [learn-typescript](https://github.com/snipcart/learn-typescript) - Open Source коллекция материалов для изучения TypeScript.
 
 ## Полезные инструменты
-- [performancebudget.io](http://www.performancebudget.io/) - Рассчитать вес страницы при константном времени загрузки
-- [bundlephobia.com](https://bundlephobia.com/) - Узнать вес npm пакета
+- [performancebudget.io](http://www.performancebudget.io/) - Рассчитать вес страницы при константном времени загрузки.
+- [bundlephobia.com](https://bundlephobia.com/) - Узнать вес npm пакета.
 - [squoosh.app](https://squoosh.app/) - Сжатие и оптимизация изображений прямо в бзаузере, на WASM.
+- [web.dev](https://web.dev/) - Измерить производительность, доступность и SEO приложения, а также много хороших практик.
 
 ## UI/UX
 - [refactoringui.com](https://refactoringui.com/) - Коллекция отличных советов по улучшению внешнего вида приложения.
