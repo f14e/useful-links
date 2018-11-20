@@ -8,6 +8,7 @@
 ## Полезные инструменты
 - [performancebudget.io](http://www.performancebudget.io/) - Рассчитать вес страницы при константном времени загрузки
 - [bundlephobia.com](https://bundlephobia.com/) - Узнать вес npm пакета
+- [squoosh.app](https://squoosh.app/) - Сжатие и оптимизация изображений прямо в бзаузере, на WASM.
 
 ## UI/UX
 - [refactoringui.com](https://refactoringui.com/) - Коллекция отличных советов по улучшению внешнего вида приложения.
