@@ -27,3 +27,6 @@
 
 ## Статистика
 - [stateofjs.com](https://stateofjs.com/) - Результаты большого ежегодного опроса JS разработчиков.
+
+## Git
+- [learngitbranching.js.org](https://learngitbranching.js.org/) - Интерактивный учебник Git.
