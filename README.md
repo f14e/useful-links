@@ -30,3 +30,11 @@
 
 ## Git
 - [learngitbranching.js.org](https://learngitbranching.js.org/) - Интерактивный учебник Git.
+
+## Шпаргалки
+- [devhists.io](https://devhints.io) — Много шпаргалок по разным языка, технологиям и инструментам.
+- [vuejs-tips.github.io/cheatsheet](https://vuejs-tips.github.io/cheatsheet/) — VueJS.
+- [vuejs-tips.github.io/vuex-cheatsheet](https://vuejs-tips.github.io/vuex-cheatsheet/) — Vuex.
+- [angular.io/guide/cheatsheet](https://angular.io/guide/cheatsheet) — Angular 4.
+- [overapi.com](http://overapi.com) - Шпагралка по API веб-технологий.
+- [yoksel.github.io/flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/) — Flexbox.
