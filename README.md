@@ -31,6 +31,10 @@
 ## Git
 - [learngitbranching.js.org](https://learngitbranching.js.org/) - Интерактивный учебник Git.
 
+## API
+- [devdocs.io](https://devdocs.io/) - Удобная документация по всему.
+- [dash](https://kapeli.com/dash) - Оффлайн приложение для Mac и iOS. Платное.
+
 ## Шпаргалки
 - [devhists.io](https://devhints.io) — Много шпаргалок по разным языка, технологиям и инструментам.
 - [vuejs-tips.github.io/cheatsheet](https://vuejs-tips.github.io/cheatsheet/) — VueJS.
