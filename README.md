@@ -20,6 +20,7 @@
 
 ## Разное
 - [learnxinyminutes.com](https://learnxinyminutes.com/) - Быстрый экскурс в новый язык или технологию.
+- [hyperpolyglot.org](http://hyperpolyglot.org/) - Side-by-side сравнение некоторых языков и технологий.
 - [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/dictionary.md) - Большой словарь знакомых и не очень терминов от WebStandards.
 
 ## Сеть
