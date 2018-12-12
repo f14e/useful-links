@@ -43,3 +43,6 @@
 - [angular.io/guide/cheatsheet](https://angular.io/guide/cheatsheet) — Angular 4.
 - [overapi.com](http://overapi.com) - Шпагралка по API веб-технологий.
 - [yoksel.github.io/flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/) — Flexbox.
+
+## Книги
+- [Fnont-end Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) - Современные пркактики фронтента в одной книге.
