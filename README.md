@@ -10,6 +10,7 @@
 - [bundlephobia.com](https://bundlephobia.com/) - Узнать вес npm пакета.
 - [squoosh.app](https://squoosh.app/) - Сжатие и оптимизация изображений прямо в бзаузере, на WASM.
 - [web.dev](https://web.dev/) - Измерить производительность, доступность и SEO приложения, а также много хороших практик.
+- [shapy.app](https://shapy.app/) - Удобный редактор CSS градиентов.
 
 ## UI/UX
 - [refactoringui.com](https://refactoringui.com/) - Коллекция отличных советов по улучшению внешнего вида приложения.
