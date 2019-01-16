@@ -49,3 +49,7 @@
 
 ## Книги
 - [Fnont-end Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) - Современные пркактики фронтента в одной книге.
+
+## Awesome листы
+- [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) - Коллекция материалов по фукнциональному программированию в JS.
+- [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Лист с материалами по безопасности, devops, сетям и инструментам.
