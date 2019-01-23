@@ -32,6 +32,7 @@
 
 ## Git
 - [learngitbranching.js.org](https://learngitbranching.js.org/) - Интерактивный учебник Git.
+- [gitexplorer.com](https://gitexplorer.com/) - Интересная шпаргалка по гиту.
 
 ## API
 - [devdocs.io](https://devdocs.io/) - Удобная документация по всему.
