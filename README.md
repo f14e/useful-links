@@ -5,6 +5,9 @@
 ## TypeScript
 - [learn-typescript](https://github.com/snipcart/learn-typescript) - Open Source коллекция материалов для изучения TypeScript.
 
+## React
+- [reactpatterns.com](https://reactpatterns.com/) - Коллекция общепринятых паттернов при работе с React.
+
 ## Полезные инструменты
 - [performancebudget.io](http://www.performancebudget.io/) - Рассчитать вес страницы при константном времени загрузки.
 - [bundlephobia.com](https://bundlephobia.com/) - Узнать вес npm пакета.
