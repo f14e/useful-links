@@ -58,3 +58,4 @@
 ## Awesome листы
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) - Коллекция материалов по фукнциональному программированию в JS.
 - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Лист с материалами по безопасности, devops, сетям и инструментам.
+- [100 days of code frontend](https://github.com/nas5w/100-days-of-code-frontend) - План по изучению фронтента на 100 дней вперед
