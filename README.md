@@ -50,6 +50,7 @@
 - [yoksel.github.io/flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/) — Flexbox.
 - [GAQGURU](https://github.com/FAQGURU/FAQGURU) - Список вопросов и ответов для прохождения технического интервью.
 - [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - Еще один репозиторий с вопросами для собеседований.
+- [Array Explorer](https://sdras.github.io/array-explorer/) - Как понять какой из методов массива использовать?
 
 ## Книги
 - [Fnont-end Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) - Современные пркактики фронтента в одной книге.
