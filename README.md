@@ -41,6 +41,9 @@
 - [devdocs.io](https://devdocs.io/) - Удобная документация по всему.
 - [dash](https://kapeli.com/dash) - Оффлайн приложение для Mac и iOS. Платное.
 
+## GraphQL
+- [trygql.com](https://trygql.com/) - Интерактивный учебник по основам GraphQL.
+
 ## Шпаргалки
 - [devhists.io](https://devhints.io) — Много шпаргалок по разным языка, технологиям и инструментам.
 - [vuejs-tips.github.io/cheatsheet](https://vuejs-tips.github.io/cheatsheet/) — VueJS.
