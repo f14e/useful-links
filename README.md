@@ -4,6 +4,7 @@
 
 ## TypeScript
 - [learn-typescript](https://github.com/snipcart/learn-typescript) - Open Source коллекция материалов для изучения TypeScript.
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Шпаргалка по TypeScript для React разработчиков.
 
 ## React
 - [reactpatterns.com](https://reactpatterns.com/) - Коллекция общепринятых паттернов при работе с React.
